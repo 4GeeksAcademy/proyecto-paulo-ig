@@ -1,0 +1,49 @@
+body {
+    background-color: lightgray;
+}
+
+.titulo {
+    height: 80px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Courier New';
+}
+
+.post-1 {
+    width: 600px;
+    background-color: white;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.barra {
+    background-color: grey;
+    height: 75px;
+    width: 600px;
+    margin: auto;
+
+    h2 {
+        float: left;
+        margin: 20px;
+    }
+
+    h3 {
+        float: right;
+        margin: 20px;
+        margin-top: 25px;
+    }
+}
+
+.foto img {
+    width: 100%;
+    
+}
+
+.pie {
+    height: 75px;
+    width: 600px;
+    margin: 10px;
+}
