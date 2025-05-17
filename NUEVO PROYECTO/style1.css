@@ -1,0 +1,74 @@
+body {
+    background-color: lightgray;
+    font-family: 'roboto';
+}
+
+.container {
+    width: 500px;
+    height: 600px;
+    background-color: white;
+    margin: auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+    
+}
+
+.titulo {
+    width: 100%;
+    height: 75px;
+    background-color: whitesmoke;
+    padding-top: 1px;
+}
+
+#texto-light {
+    font-weight: lighter;
+}
+
+.fa-circle-user {
+    font-size: 40px;
+    float: left;
+    padding: 17px;
+}
+
+.fa-bars {
+    font-size: 40px;
+    float: right;
+    padding: 17px;
+
+}
+
+.foto {
+    height: auto;
+    width: 100%;
+}
+
+.icons {
+    height: 40px;
+    width:500px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.icons-izq {
+    font-size:30px;
+    padding:10px;
+}
+
+.icons-der {
+    font-size: 30px;
+    padding: 10px;
+}
+
+
+.likes {
+    text-align: left;
+    height: 20px;
+    width:500px;
+    padding: 10px;
+}
+
+.caption {
+    text-align: left;
+    font-size: 14px;
+    padding: 10px;
+}
